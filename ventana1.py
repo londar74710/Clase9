@@ -38,7 +38,6 @@ class Ventana1(QMainWindow):
         self.horizontal = QHBoxLayout()
         self.horizontal.setContentsMargins(30, 30, 30, 30)
 
-        # aqui inicia lado izquierdo
         self.ladoIzquierdo = QFormLayout()
 
         self.letrero1 = QLabel()
